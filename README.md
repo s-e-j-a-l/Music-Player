@@ -8,7 +8,5 @@ A lightweight and responsive web-based music player built using HTML, CSS, and J
   - CSS – For styling and layout
   - JavaScript – For interactivity and playback logic
 
-![Music Player Screenshot](media/img1.png)
-![Music Player Screenshot](media/img2.png)
-
+![Music Player Screenshot](media/Screenshot.png)
 
